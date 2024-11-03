@@ -3,5 +3,6 @@
   "semi": false,
   "singleQuote": true,
   "arrowParens": "avoid",
-  "singleAttributePerLine": true
+  "singleAttributePerLine": true,
+  "printWidth": 120
 }
